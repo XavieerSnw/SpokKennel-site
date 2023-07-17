@@ -73,6 +73,7 @@ $(document).ready(function () {
     carousel.trigger("next.owl.carousel");
   });
 
+  // Botões do header
   document.getElementById("homeBtn").addEventListener("click", function () {
     window.location.href = "index.html";
   });
