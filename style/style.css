@@ -143,7 +143,7 @@ section p {
 .square-image {
   position: relative;
   width: 100%;
-  padding-top: 100%; /* Define a proporção 1:1 */
+  padding-top: 100%; 
 }
 
 .square-image img {
@@ -155,8 +155,6 @@ section p {
   object-fit: cover;
   border-radius: 15px;
 }
-
-/* Alterações para posicionar as imagens e textos */
 
 .about-section .row {
   display: flex;
@@ -240,9 +238,6 @@ section p {
   text-decoration: underline;
 }
 
-/* Adicione estas classes CSS para as animações de scroll */
-
-/* Animação do header */
 header {
   transition: background-color 0.3s ease;
 }
