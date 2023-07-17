@@ -1,6 +1,5 @@
 # Canil "Spok Kennel" 🐶
 
-
 Bem-vindo ao repositório do site do Canil "Spok Kennel"! Este repositório contém o código-fonte e os recursos necessários para o site do canil. Aqui você encontrará informações sobre este projeto.
 
 ## Sobre o Canil 🏡
@@ -13,7 +12,7 @@ O site do Canil "Spok Kennel" é uma página única que apresenta informações 
 
 ## Acesso ao Site 🔗
 
-Você pode acessar o site do Canil "Nome do Canil" através do seguinte link: [https://spokkennelsite.netlify.app/](https://spokkennelsite.netlify.app/)
+Você pode acessar o site do Canil "Spok Kennel" através do seguinte link: [https://spokkennelsite.netlify.app/](https://spokkennelsite.netlify.app/)
 
 ## Uso 🐾
 
@@ -22,7 +21,7 @@ O site do Canil "Spok Kennel" é simples e fácil de usar. Ele possui uma única
 - **HEADER**: Traz a logo e nome do canil na parte esquerda e na direita apresenta os botões: home, instagram e contato.
 - **SECTION**: Informações sobre o canil, as raças de cães com que o canil trabalha, e como cuidar de seu primeiro filhote incluindo imagens e descrições breves.
 - **CARROSSEL DE IMAGENS**: Imagens adoráveis de filhotes do canil.
-- **Contato**: Opções de contato para os visitantes se comunicarem com o Canil "Spok Kennel".
+- **CONTATO**: Opções de contato para os visitantes se comunicarem com o Canil "Spok Kennel".
 
 Sinta-se à vontade para explorar cada seção do site e aproveitar as informações e recursos disponíveis.
 
@@ -39,3 +38,9 @@ Se você tiver alguma dúvida ou desejar entrar em contato com o Canil "Spok Ken
 ## Licença 📄
 
 Este projeto está licenciado sob a [Licença MIT](/LICENSE).
+
+## Translation 🌍
+
+You can translate this README into other languages using the button below:
+
+[![Translate](https://translate.github.com/button.svg)](https://translate.github.com)
